@@ -31,5 +31,7 @@ public class Day1
 	{
 		System.out.println("Hello");
 		System.out.println("Bye");
+		System.out.println("Helloo");
+		System.out.println("Byee");
 	}
 }
