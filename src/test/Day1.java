@@ -34,4 +34,13 @@ public class Day1
 		System.out.println("Helloo");
 		System.out.println("Byee");
 	}
+
+	@Test
+	public void ThirdTest()
+	{
+		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+		System.out.println("4");
+	}
 }
