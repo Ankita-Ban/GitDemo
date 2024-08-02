@@ -29,6 +29,7 @@ public class Day1
 	@Test
 	public void SecondTest()
 	{
+		System.out.println("Hello");
 		System.out.println("Bye");
 	}
 }
